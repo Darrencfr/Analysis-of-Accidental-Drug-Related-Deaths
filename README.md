@@ -3,7 +3,7 @@
 📌 Overview
 This end-to-end data science project analyzes accidental drug-related deaths through systematic data cleaning, exploratory analysis, and machine learning techniques. The goal was to uncover patterns in overdose cases to inform public health strategies.
 
-Key Components
+Key Components:
 1️⃣ Data Cleaning & Preprocessing
 Standardized demographic variables (sex, race, ethnicity)
 Handled missing values through imputation (mean, mode) and logical rules
